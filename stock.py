@@ -38,7 +38,7 @@ if type(info) == dict:
         st.write(Data.financials)
 
     # closing price graph
-    tickerDf = Data.history(period='1d', start='2020-01-01', end='2022-11-30')
+    tickerDf = Data.history(period='1d', start='2021-01-01', end='2022-12-30')
     st.write("""
     ### Closing Price """)
 
