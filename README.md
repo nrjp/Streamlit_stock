@@ -1,5 +1,5 @@
-# Streamlit stock App
-## Stock information app using Streamlit 
+# Streamlit Stock Application
+## Stock Information Application using Streamlit 
 
 - Streamlit
 - yfinance
